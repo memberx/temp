@@ -1,3 +1,11 @@
 <?php
-echo 'af';
+
+
+try{
+	echo 'ssss';
+}catch (Exception $e)
+{
+	echo 'sdsdsds';
+}
+
 ?>
